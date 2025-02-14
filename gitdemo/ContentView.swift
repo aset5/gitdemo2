@@ -2,7 +2,7 @@
 //  gitdemo
 //
 //  Created by Asset on 14.02.2025.
-//
+// created by andamassov
 
 import SwiftUI
 
