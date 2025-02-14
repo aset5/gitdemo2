@@ -1,0 +1,57 @@
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Xcode
+## User-specific files
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace/
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Derived Data
+DerivedData/
+.idea/
+*.mode1v3
+*.mode2v3
+*.pbxuser
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.ipa
+*.xcarchive
+
+# Logs
+*.log
+*.crash
+*.swp
+
+# Secrets
+*.mobileprovision
+*.cert
+*.p12
+*.key
+*.pem
+
+# Ignore environment files
+.env
+
