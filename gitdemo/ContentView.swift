@@ -1,5 +1,4 @@
 //
-//  ContentView.swift
 //  gitdemo
 //
 //  Created by Asset on 14.02.2025.
@@ -14,6 +13,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            
         }
         .padding()
     }
